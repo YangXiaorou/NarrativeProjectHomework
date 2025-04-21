@@ -1,5 +1,6 @@
-# NarrativeProjectHomework
-Exploring the Changes in the Predictive Ability of the GPT - 2 Model for Human Brain Neural Responses Before and After Supervised Fine - Tuning (SFT) 
+# GPT-2 脑-语言建模复现项目
+核心目标：探索 GPT-2 模型在sft微调前后对人脑神经反应的预测能力变化。
+
 ## 项目结构
 ```
 NarrativeProjectHomework/
