@@ -1,0 +1,4 @@
+*.nii.gz
+*.safetensors
+__pycache__
+*.pt
